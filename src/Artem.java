@@ -2,9 +2,9 @@
 public class Artem {
     public static void main(String[] args) {
         // Создание точек
-        Point p1 = new Point(0, 0);
-        Point p2 = new Point(3, 0);
-        Point p3 = new Point(3, 4);
+        Point p1 = new Point(5, 4);
+        Point p2 = new Point(2, 0);
+        Point p3 = new Point(3, 2);
         Point p4 = new Point(0, 4);
 
         // Создание отрезка
